@@ -9,5 +9,4 @@ public class task11 {
         double result = (abs(x - 5) - sin(x)) / 3 + sqrt(pow(x,2) +2014) * cos(2 * x) -3;
         System.out.println(result);
     }
-
 }
