@@ -1,3 +1,5 @@
+package Console;
+
 import java.io.Console;
 // Вывести на экран текст "Silence is golden"
 public class task1 {

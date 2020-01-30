@@ -1,3 +1,5 @@
+package Console;
+
 public class task8 {
     public static void main(String[] args) {
         int a = 2, b = 3;
