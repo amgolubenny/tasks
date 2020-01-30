@@ -1,4 +1,4 @@
-package Console;
+package Arithmetic;
 
 public class task8 {
     public static void main(String[] args) {
