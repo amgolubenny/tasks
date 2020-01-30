@@ -1,5 +1,5 @@
 package Arithmetic;
-
+//Вычислите |x|+x5, если x=−2
 import java.lang.Math;
 
 public class task9 {
